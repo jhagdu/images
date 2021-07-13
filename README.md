@@ -1,2 +1,2 @@
-# images
+# Images
 Contains Images and Videos
